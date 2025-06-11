@@ -34,7 +34,7 @@ Currently building cool things at **Sourena Game Studio** and contributing to op
 | Project | Description |
 |--------|-------------|
 | 🛰 [Dideban Monitoring System](https://github.com/LordVersA/dideban-server) | Real-time server monitoring system with WebSocket dashboards, built using Node.js + Adonis + MySQL |
-| 🌐 VacCovid API | Massive COVID data aggregator with global stats, used by devs & researchers worldwide |
+| 🌐 [VacCovid](https://github.com/armanfeili/vaccovid) | Massive COVID data aggregator with global stats, used by devs & researchers worldwide |
 | 📡 [HLS Streamer](#) *(private)* | On-demand HLS streamer with Redis & TypeORM, serving 200+ RPS with 50K+ users |
 
 ---
