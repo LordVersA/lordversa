@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Parsa 👨‍💻</h1>
 <p align="center">
-  Backend Engineer • Open Source Nerd • Performance Freak  
+  Software Engineer
 </p>
 
 ---
@@ -45,9 +45,3 @@ Currently building cool things at **Sourena Game Studio** and contributing to op
 - 💼 [LinkedIn](https://www.linkedin.com/in/parsa-radfar/)
 - ✉️ `parsa.plus@gmail.com`
 
----
-
-### 💡 Fun Fact
-
-I don’t just write code — I *stress test it, benchmark it, and obsess over its memory usage.*  
-Also, I probably like your database more than you do. 😉
