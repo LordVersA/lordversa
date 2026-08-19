@@ -39,16 +39,6 @@ Currently building cool things at **Sourena Game Studio** and contributing to op
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LordVersA&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordVersA&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 How to Reach Me
 
 - 🧠 [Medium Articles](https://medium.com/@LordVersA)
